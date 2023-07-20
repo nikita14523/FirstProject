@@ -19,6 +19,9 @@ public class ClassB {
 		
 		System.out.println(Arrays.toString(b));
 		
+		int[] p = {40, 30, 50, 80, 70};
+		System.out.println(Arrays.toString(p));
+		
 	}
 
 }
